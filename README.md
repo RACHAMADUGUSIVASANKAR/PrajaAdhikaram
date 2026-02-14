@@ -2,6 +2,10 @@
 
 Praja Adhikaram AI is a web app and API for discovering Indian government schemes and checking eligibility based on a user profile.
 
+
+https://github.com/user-attachments/assets/2c72a164-2129-4d8f-8ae3-4cce18daf780
+
+
 ## Tech stack
 
 - Frontend: Next.js 14, React 18, Tailwind CSS, GSAP, Framer Motion, Three.js
